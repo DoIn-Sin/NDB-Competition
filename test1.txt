@@ -1,0 +1,3 @@
+commit -m '텍스트'
+add app.txt
+gogogo
